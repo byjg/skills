@@ -1,0 +1,9 @@
+{
+  "name": "byjg",
+  "description": "Agent Skills for the ByJG open source components, published from their repositories.",
+  "owner": {
+    "name": "ByJG",
+    "url": "https://github.com/byjg"
+  },
+  "plugins": []
+}
