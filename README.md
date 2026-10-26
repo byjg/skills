@@ -1,5 +1,9 @@
 # ByJG Agent Skills
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%23ea4aaa?logo=githubsponsors&logoColor=white&labelColor=0d1117)](https://github.com/sponsors/byjg)
+[![Opensource ByJG](https://img.shields.io/badge/opensource-byjg-success.svg)](https://opensource.byjg.com)
+[![GitHub source](https://img.shields.io/badge/Github-source-informational?logo=github)](https://github.com/byjg/skills/)
+
 Skills that teach a coding agent (Claude Code, Codex, Cursor, ...) how to work with the
 ByJG open source components. Documentation: [https://opensource.byjg.com/docs/ai/agent-skills](https://opensource.byjg.com/docs/ai/agent-skills).
 
@@ -48,3 +52,6 @@ everyone who opens the project:
 ```bash
 npx skills add byjg/skills --skill <skill>
 ```
+
+----
+[Open source ByJG](https://opensource.byjg.com)
