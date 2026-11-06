@@ -23,6 +23,15 @@
       "metadata": {
         "repository": "byjg/php-gluo"
       }
+    },
+    {
+      "name": "shellscript-add",
+      "source": "./skills/shellscript-add",
+      "description": "Use this skill whenever the user wants to add a new installer script to the shellscript.download project. Trigger when the user says things like \"add a script for X\", \"create a new script to install Y\", \"write a .sh for Z\", \"add <tool> to the catalog\", or any request to create or write a new public/scripts/*.sh file. Also trigger when the user asks how to contribute a new script or what the pattern for a new script looks like.",
+      "homepage": "https://opensource.byjg.com/docs/ai/agent-skills/shellscript-add",
+      "metadata": {
+        "repository": "byjg/shellscript-download"
+      }
     }
   ]
 }
